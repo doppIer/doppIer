@@ -2,10 +2,10 @@
   <img src="bouquet.gif" alt="ASCII lilies blooming" width="720">
 </p>
 
-<h3 align="center">Hi, I'm Bedirhan 👋</h3>
+<h3 align="center">Hi, I'm Bedirhan </h3>
 
 <p align="center">
-  Student dev building on AWS and self-hosting a homelab on reused hardware.
+  Student dev building on AWS and self-hoster
 </p>
 
 ### Projects
