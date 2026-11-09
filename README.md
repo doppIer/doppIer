@@ -2,6 +2,10 @@
   <img src="bouquet.gif" alt="ASCII lilies blooming" width="720">
 </p>
 
+<p align="center">
+  <img src="blackhole.gif" alt="ASCII black hole forming" width="720">
+</p>
+
 <h3 align="center">Hi, I'm Bedirhan </h3>
 
 <p align="center">
