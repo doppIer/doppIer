@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="bouquet.gif" alt="ASCII lilies blooming" width="720">
-</p>
-
-<p align="center">
   <img src="blackhole.gif" alt="ASCII black hole forming" width="720">
 </p>
 
